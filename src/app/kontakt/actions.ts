@@ -266,4 +266,6 @@ export async function submitContactForm(
   }
 
   if (sent) redirect("/danke");
+
+  return { status: "error", message: "Unbekannter Fehler." };
 }
