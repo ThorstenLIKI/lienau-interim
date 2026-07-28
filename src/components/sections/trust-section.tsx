@@ -1,7 +1,7 @@
 const items = [
   {
     label: "Branchen",
-    text: "Industrie, Elektrotechnik, Holzbau, Handelsorganisationen, B2B-Mittelstand",
+    text: "Industrie, Elektrotechnik, Mobility, Construction, Holzbau, Handel & B2B-Mittelstand",
   },
   {
     label: "Regionen",
