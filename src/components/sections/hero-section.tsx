@@ -78,17 +78,17 @@ export function HeroSection() {
             </div>
 
             {/* Stats */}
-            <div className="animate-fade-up-5 flex gap-9 mt-14 pt-9 border-t border-cream/10">
+            <div className="animate-fade-up-5 flex gap-10 mt-14 pt-9 border-t border-cream/10">
               {[
                 { num: "15+", label: "Jahre B2B-Erfahrung" },
                 { num: "5", label: "Märkte & Regionen" },
-                { num: "2 Mio.", label: "€ Budgetverantwortung" },
+                { num: "2 Mio. €", label: "Budgetverantwortung" },
               ].map((s) => (
                 <div key={s.label}>
-                  <div className="font-display text-[2.2rem] font-bold text-gold leading-none">
+                  <div className="font-display text-[1.7rem] font-bold text-gold leading-none">
                     {s.num}
                   </div>
-                  <div className="text-[0.78rem] text-cream/50 mt-1 uppercase tracking-[0.07em]">
+                  <div className="text-[0.73rem] text-cream/45 mt-1.5 tracking-[0.05em] whitespace-nowrap">
                     {s.label}
                   </div>
                 </div>
