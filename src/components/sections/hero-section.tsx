@@ -23,6 +23,21 @@ export function HeroSection() {
 
           {/* Content */}
           <div className="pt-32 pb-20">
+
+            {/* Mobile portrait — only visible on small screens */}
+            <div className="flex md:hidden justify-center mb-8 animate-fade-up-1">
+              <div className="relative w-[120px] h-[120px] rounded-full overflow-hidden border-2 border-gold/40 shadow-[0_8px_30px_rgba(13,31,53,0.4)]">
+                <Image
+                  src="/portrait.jpg"
+                  alt="Thorsten Lienau"
+                  fill
+                  className="object-cover object-top"
+                  priority
+                  sizes="120px"
+                />
+              </div>
+            </div>
+
             {/* Badge */}
             <div className="animate-fade-up-1 inline-flex items-center gap-2 px-4 py-1.5 bg-petrol/20 border border-petrol/40 rounded-full text-xs font-medium text-petrol-bright uppercase tracking-[0.05em] mb-7">
               <span
