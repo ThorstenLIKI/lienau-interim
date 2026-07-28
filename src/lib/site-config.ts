@@ -83,14 +83,14 @@ export const projects = [
     label: "KI-gestützter Voice-/Call-Bot für den Außendienst",
     client: "Mittelständisches Unternehmen (2025)",
     description:
-      "Konzeption und Entwicklung eines KI-gestützten internen Voice-/Call-Bots zur Anwendungsberatung. Ziel war der dialogbasierte Zugriff auf Produkt- und Anwendungswissen – zur Unterstützung des Vertriebs im Außendienst und zur Reduzierung von Rückfragen an den Innendienst.",
+      "Konzeption und Entwicklung eines KI-gestützten internen Voice-/Call-Bots zur Anwendungsberatung. Ziel war der dialogbasierte Zugriff auf Produkt- und Anwendungswissen, zur Unterstützung des Vertriebs im Außendienst und zur Reduzierung von Rückfragen an den Innendienst.",
     tags: ["KI / Voice Bot", "Sales Enablement", "Digitalisierung", "Außendienst"],
   },
   {
     label: "Digitale & KI-gestützte Webanwendungen für KMU",
     client: "Verschiedene Kunden (2025–2026)",
     description:
-      "Konzeption und Entwicklung moderner digitaler Kundenerlebnisse und KI-gestützter Weblösungen – darunter eine interaktive Lernplattform, automatisierte Lead-Strecken und weitere kundenorientierte Anwendungen für kleine und mittelständische Unternehmen.",
+      "Konzeption und Entwicklung moderner digitaler Kundenerlebnisse und KI-gestützter Weblösungen, darunter eine interaktive Lernplattform, automatisierte Lead-Strecken und weitere kundenorientierte Anwendungen für kleine und mittelständische Unternehmen.",
     tags: ["KI-Webanwendungen", "UX / Produktentwicklung", "Automatisierung"],
   },
   {

@@ -4,7 +4,7 @@ const services = [
   {
     title: "Interim Marketing Leadership",
     description:
-      "Übernahme von Marketingverantwortung auf Zeit – von der Strategieentwicklung bis zur operativen Führung. Ich stabilisiere, entwickle weiter und übergebe strukturiert.",
+      "Übernahme von Marketingverantwortung auf Zeit: von der Strategieentwicklung bis zur operativen Führung. Ich stabilisiere, entwickle weiter und übergebe strukturiert.",
     tags: ["Teamführung", "Budgetsteuerung", "Stakeholder Management"],
     icon: (
       <svg viewBox="0 0 24 24" className="w-[22px] h-[22px]" fill="none" stroke="currentColor" strokeWidth="1.8">
@@ -16,7 +16,7 @@ const services = [
   {
     title: "Go-to-Market & Segmentstrategie",
     description:
-      "Entwicklung differenzierter Marktzugangsstrategien und segmentspezifischer Ansätze – von der Kundensegmentierung bis zur Kanalstrategie und Positionierung.",
+      "Entwicklung differenzierter Marktzugangsstrategien und segmentspezifischer Ansätze: von der Kundensegmentierung bis zur Kanalstrategie und Positionierung.",
     tags: ["Marktanalyse", "Positionierung", "Pricing"],
     icon: (
       <svg viewBox="0 0 24 24" className="w-[22px] h-[22px]" fill="none" stroke="currentColor" strokeWidth="1.8">
@@ -27,7 +27,7 @@ const services = [
   {
     title: "Transformation & Integration",
     description:
-      "Steuerung von Transformationsvorhaben, Post-Merger-Integrationen und Reorganisationen – mit klaren Strukturen, Meilensteinen und nachhaltiger Verankerung.",
+      "Steuerung von Transformationsvorhaben, Post-Merger-Integrationen und Reorganisationen. Mit klaren Strukturen, Meilensteinen und nachhaltiger Verankerung.",
     tags: ["Change Management", "PMI", "Prozessdesign"],
     icon: (
       <svg viewBox="0 0 24 24" className="w-[22px] h-[22px]" fill="none" stroke="currentColor" strokeWidth="1.8">
@@ -39,7 +39,7 @@ const services = [
   {
     title: "KI-gestützte Marketingprozesse",
     description:
-      "Identifikation und Implementierung von KI-Anwendungen im Marketing – von Content-Automatisierung über Datenanalyse bis hin zu effizienten Workflows und Tools.",
+      "Identifikation und Implementierung von KI-Anwendungen im Marketing: von Content-Automatisierung über Datenanalyse bis hin zu effizienten Workflows und Tools.",
     tags: ["KI-Strategie", "Automatisierung", "Datenanalyse"],
     icon: (
       <svg viewBox="0 0 24 24" className="w-[22px] h-[22px]" fill="none" stroke="currentColor" strokeWidth="1.8">
@@ -75,7 +75,7 @@ export function ServicesSection() {
             Was ich für Sie leiste
           </h2>
           <p className="text-text-light text-base leading-[1.8] max-w-[620px]">
-            Ich bringe strategische Klarheit und operative Konsequenz – in den Bereichen, die für B2B-Wachstum und nachhaltige Transformation wirklich zählen.
+            Ich bringe strategische Klarheit und operative Konsequenz, in den Bereichen, die für B2B-Wachstum und nachhaltige Transformation wirklich zählen.
           </p>
         </Reveal>
 

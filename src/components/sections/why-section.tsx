@@ -2,11 +2,11 @@ import { Reveal } from "@/components/ui/reveal";
 
 const reasons = [
   { title: "Sofort einsatzbereit", text: "Keine monatelange Einarbeitungszeit. Ich identifiziere schnell die wesentlichen Hebel, gewinne das Vertrauen der Teams und setze Prioritäten mit sofortiger Wirkung." },
-  { title: "Strategie & Umsetzung in einem", text: "Ich entwickle Strategien nicht nur im Slide-Deck – ich begleite die Umsetzung, verankere Strukturen und stelle sicher, dass Ergebnisse messbar werden." },
+  { title: "Strategie & Umsetzung in einem", text: "Ich entwickle Strategien nicht nur im Slide-Deck, sondern begleite die Umsetzung, verankere Strukturen und stelle sicher, dass Ergebnisse messbar werden." },
   { title: "C-Level-erfahren", text: "Enge Zusammenarbeit mit CFO, CEO und Geschäftsführung ist mir vertraut. Ich kommuniziere klar auf Entscheiderebene und bringe operative Tiefe mit." },
-  { title: "International & interkulturell", text: "Ich bin in multikulturellen Teams, Matrixstrukturen und internationalen Projekten zuhause – fließend auf Deutsch und Englisch auf Verhandlungsniveau (C2)." },
+  { title: "International & interkulturell", text: "Ich bin in multikulturellen Teams, Matrixstrukturen und internationalen Projekten zuhause. Fließend auf Deutsch und Englisch auf Verhandlungsniveau (C2)." },
   { title: "Modern & zukunftsorientiert", text: "Als zertifizierter KI-Manager bringe ich fundiertes Know-how, um Marketing- und Unternehmensprozesse mit modernen Technologien wirkungsvoll zu gestalten." },
-  { title: "Nachhaltige Übergabe", text: "Mein Ziel ist es, nach meinem Mandat eine stärkere Organisation zu hinterlassen als ich sie vorgefunden habe – mit klaren Prozessen, entwickelten Teams und dokumentierten Ergebnissen." },
+  { title: "Nachhaltige Übergabe", text: "Mein Ziel ist es, nach meinem Mandat eine stärkere Organisation zu hinterlassen als ich sie vorgefunden habe: mit klaren Prozessen, entwickelten Teams und dokumentierten Ergebnissen." },
 ];
 
 const CheckIcon = () => (
@@ -25,10 +25,10 @@ export function WhySection() {
           </p>
           <div className="w-14 h-[3px] rounded mb-5" style={{ background: "linear-gradient(90deg, #b8976a, #1b6b78)" }} />
           <h2 className="font-display text-[clamp(2rem,3.5vw,2.8rem)] text-navy mb-4">
-            Führung, die liefert – ohne lange Anlaufzeit
+            Führung, die liefert. Ohne lange Anlaufzeit.
           </h2>
           <p className="text-text-light text-base leading-[1.8] max-w-[620px]">
-            Ich bin kein externer Berater, der Empfehlungen abgibt und wieder geht. Ich übernehme Verantwortung, führe Teams, treffe Entscheidungen – und verlasse das Unternehmen mit einer stärkeren Organisation, als ich es vorgefunden habe.
+            Ich bin kein externer Berater, der Empfehlungen abgibt und wieder geht. Ich übernehme Verantwortung, führe Teams, treffe Entscheidungen und verlasse das Unternehmen mit einer stärkeren Organisation, als ich es vorgefunden habe.
           </p>
         </Reveal>
 

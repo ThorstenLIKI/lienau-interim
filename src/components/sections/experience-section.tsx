@@ -36,7 +36,7 @@ const timeline = [
 const highlights = [
   { num: "18", title: "Mitarbeitende geführt", desc: "Aufbau und Entwicklung einer internationalen Segmentorganisation mit 4 direkten Teamleitungen." },
   { num: "2 Mio. €", title: "Budgetverantwortung", desc: "Verantwortung für Marketing- und Messebudgets in internationalen Strukturen, direkt an CFO und CEO berichtend." },
-  { num: "DACH+", title: "Internationale Märkte", desc: "Operative Erfahrung in DACH, Nordics und Zentraleuropa – in Mehrsprachenumgebungen und Matrixstrukturen." },
+  { num: "DACH+", title: "Internationale Märkte", desc: "Operative Erfahrung in DACH, Nordics und Zentraleuropa, in Mehrsprachenumgebungen und Matrixstrukturen." },
   { num: "KI", title: "Zertifizierter KI-Manager", desc: "Zertifizierte Qualifikation im Bereich KI, Datenanalyse und Automatisierung mit konkretem Unternehmensanwendungsbezug." },
 ];
 
@@ -53,7 +53,7 @@ export function ExperienceSection() {
             Belastbares Fundament für Ihre Herausforderung
           </h2>
           <p className="text-cream/60 text-base leading-[1.8] max-w-[620px]">
-            Über 15 Jahre in anspruchsvollen B2B-Umgebungen – von der Produktstrategie über Segmentmanagement bis zur Führung internationaler Teams in Matrixorganisationen.
+            Über 15 Jahre in anspruchsvollen B2B-Umgebungen: von der Produktstrategie über Segmentmanagement bis zur Führung internationaler Teams in Matrixorganisationen.
           </p>
         </Reveal>
 

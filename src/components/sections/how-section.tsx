@@ -2,7 +2,7 @@ import { Reveal } from "@/components/ui/reveal";
 
 const steps = [
   { num: "01", title: "Analyse & Orientierung", text: "Schnelles Einarbeiten in Ihr Unternehmen, Ihre Strukturen und Herausforderungen. Erstbewertung der Ausgangslage und Prioritäten." },
-  { num: "02", title: "Strategie & Planung", text: "Entwicklung eines klaren Handlungsrahmens: Ziele, Maßnahmen, Meilensteine und Ressourcenbedarf – abgestimmt mit der Geschäftsführung." },
+  { num: "02", title: "Strategie & Planung", text: "Entwicklung eines klaren Handlungsrahmens: Ziele, Maßnahmen, Meilensteine und Ressourcenbedarf, abgestimmt mit der Geschäftsführung." },
   { num: "03", title: "Umsetzung & Führung", text: "Operative Übernahme der Verantwortung. Ich führe Teams, treffe Entscheidungen und halte alle Beteiligten auf Kurs." },
   { num: "04", title: "Übergabe & Skalierung", text: "Strukturierte Übergabe mit Dokumentation, Training der Nachfolgekraft und Sicherstellung von Kontinuität und nachhaltiger Wirkung." },
 ];

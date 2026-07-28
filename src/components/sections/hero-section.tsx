@@ -43,7 +43,7 @@ export function HeroSection() {
 
             {/* Sub */}
             <p className="animate-fade-up-3 text-cream/70 text-lg leading-[1.8] mb-10 max-w-[520px] font-light">
-              Als Interim Manager für Marketing &amp; Transformation übernehme ich schnell Verantwortung – in kritischen Phasen, bei Neuausrichtungen und überall dort, wo externe Expertise den Unterschied macht.
+              Als Interim Manager für Marketing &amp; Transformation übernehme ich schnell Verantwortung: in kritischen Phasen, bei Neuausrichtungen und überall dort, wo externe Expertise den Unterschied macht.
             </p>
 
             {/* Actions */}

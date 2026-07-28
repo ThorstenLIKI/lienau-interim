@@ -35,7 +35,7 @@ export function ContactSection() {
             <div className="w-14 h-[3px] rounded mb-5" style={{ background: "linear-gradient(90deg, #b8976a, #1b6b78)" }} />
             <h2 className="font-display text-[2.2rem] text-navy mb-4">Lassen Sie uns sprechen.</h2>
             <p className="text-text-light text-base leading-[1.8] mb-9">
-              Sie stehen vor einer Herausforderung, die schnelle und erfahrene Führung erfordert? Ich freue mich auf ein unverbindliches Erstgespräch – unkompliziert und auf Augenhöhe.
+              Sie stehen vor einer Herausforderung, die schnelle und erfahrene Führung erfordert? Ich freue mich auf ein unverbindliches Erstgespräch, unkompliziert und auf Augenhöhe.
             </p>
 
             <div className="flex flex-col gap-4">

@@ -5,15 +5,15 @@ const items = [
   },
   {
     label: "Regionen",
-    text: "DACH, Nordics, Central Europe – internationale Strukturen und Matrixorganisationen",
+    text: "DACH, Nordics, Central Europe, internationale Strukturen und Matrixorganisationen",
   },
   {
     label: "Sprachen",
-    text: "Deutsch (Muttersprache) & Englisch (C2) – souverän auf C-Level in beiden Sprachen",
+    text: "Deutsch (Muttersprache) & Englisch (C2), souverän auf C-Level in beiden Sprachen",
   },
   {
     label: "Zertifiziert",
-    text: "Zertifizierter KI-Manager – Fokus auf KI-Anwendung, Datenanalyse & Prozessautomatisierung",
+    text: "Zertifizierter KI-Manager, Fokus auf KI-Anwendung, Datenanalyse & Prozessautomatisierung",
   },
 ];
 
