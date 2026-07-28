@@ -81,7 +81,7 @@ export function HeroSection() {
             <div className="animate-fade-up-5 flex gap-10 mt-14 pt-9 border-t border-cream/10">
               {[
                 { num: "15+", label: "Jahre B2B-Erfahrung" },
-                { num: "5", label: "Märkte & Regionen" },
+                { num: "3", label: "Kontinente" },
                 { num: "2 Mio. €", label: "Budgetverantwortung" },
               ].map((s) => (
                 <div key={s.label}>

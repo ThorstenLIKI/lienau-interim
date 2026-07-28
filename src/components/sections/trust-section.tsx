@@ -5,7 +5,7 @@ const items = [
   },
   {
     label: "Regionen",
-    text: "DACH, Nordics, Central Europe, internationale Strukturen und Matrixorganisationen",
+    text: "Europa, Americas & Asien, internationale Strukturen und Matrixorganisationen",
   },
   {
     label: "Sprachen",
