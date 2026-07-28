@@ -76,36 +76,36 @@ export const projects = [
     label: "Go-to-Market & Marketing Transformation",
     client: "Handels-Start-up (2025)",
     description:
-      "Entwicklung der Go-to-Market-Strategie inklusive Segmentierung, Positionierung und Marktbearbeitung. Aufbau einer KI-gestützten Website sowie Entwicklung skalierbarer Marketing- und Vertriebsprozesse.",
-    tags: ["Go-to-Market", "KI-Website", "Vertriebsprozesse"],
+      "Entwicklung der vollständigen Go-to-Market-Strategie: Zielgruppensegmentierung, Positionierung, Kanalstrategie und Marktbearbeitung. Aufbau einer KI-gestützten Website sowie Entwicklung skalierbarer Marketing- und Vertriebsprozesse mit messbaren KPIs.",
+    tags: ["Go-to-Market", "Segmentierung", "KI-Website", "Vertriebsprozesse"],
   },
   {
     label: "KI-gestützter Voice-/Call-Bot für den Außendienst",
-    client: "Mittelständisches Unternehmen",
+    client: "Mittelständisches Unternehmen (2025)",
     description:
-      "Konzeption und Entwicklung eines KI-gestützten internen Voice-/Call-Bots zur Anwendungsberatung. Dialogbasierter Zugriff auf Produkt- und Anwendungswissen zur Unterstützung des Außendienstes.",
-    tags: ["KI / Voice Bot", "Sales Enablement", "Digitalisierung"],
+      "Konzeption und Entwicklung eines KI-gestützten internen Voice-/Call-Bots zur Anwendungsberatung. Ziel war der dialogbasierte Zugriff auf Produkt- und Anwendungswissen – zur Unterstützung des Vertriebs im Außendienst und zur Reduzierung von Rückfragen an den Innendienst.",
+    tags: ["KI / Voice Bot", "Sales Enablement", "Digitalisierung", "Außendienst"],
   },
   {
     label: "Digitale & KI-gestützte Webanwendungen für KMU",
-    client: "Verschiedene Kunden",
+    client: "Verschiedene Kunden (2025–2026)",
     description:
-      "Konzeption und Entwicklung moderner digitaler Kundenerlebnisse und KI-gestützter Weblösungen, darunter eine interaktive Lernplattform und weitere kundenorientierte Anwendungen.",
-    tags: ["Webanwendungen", "KI", "UX / Produktentwicklung"],
+      "Konzeption und Entwicklung moderner digitaler Kundenerlebnisse und KI-gestützter Weblösungen – darunter eine interaktive Lernplattform, automatisierte Lead-Strecken und weitere kundenorientierte Anwendungen für kleine und mittelständische Unternehmen.",
+    tags: ["KI-Webanwendungen", "UX / Produktentwicklung", "Automatisierung"],
   },
   {
-    label: "Transformation & Integration",
-    client: "Berner Group",
+    label: "Post-Merger-Integration & Transformation",
+    client: "Berner Group (bis 2024)",
     description:
-      "Leitung der Integration zweier Marken sowie Entwicklung einer internationalen Go-to-Market-Strategie. Steuerung bereichsübergreifender Marketing- und Transformationsprojekte mit Fokus auf Wachstum, Organisationsentwicklung und Omnichannel-Marketing.",
-    tags: ["Integration", "Omnichannel", "Organisationsentwicklung"],
+      "Leitung der Post-Merger-Integration zweier Marken (BTI und Berner) sowie Entwicklung einer internationalen Go-to-Market-Strategie. Steuerung bereichsübergreifender Marketing- und Transformationsprojekte mit Fokus auf Wachstum, Organisationsentwicklung und Omnichannel-Marketing.",
+    tags: ["Post-Merger-Integration", "Omnichannel", "Transformation", "Organisationsentwicklung"],
   },
   {
     label: "Aufbau einer internationalen Segmentorganisation",
-    client: "Berner Group, Central & Northern Europe",
+    client: "Berner Group, Central & Northern Europe (bis 2024)",
     description:
-      "Verantwortung für Segment-, Produkt- und Customer Lifecycle Management. Führung internationaler Teams sowie Entwicklung nachhaltiger Marketing-, Produkt- und Vertriebsstrategien.",
-    tags: ["Segmentmanagement", "Internationale Führung", "Produktstrategie"],
+      "Verantwortung für Segment-, Produkt- und Customer Lifecycle Management in der Region Central & Northern Europe. Aufbau und Führung eines internationalen Teams mit 18 Mitarbeitenden und 4 Team Leads. Entwicklung nachhaltiger Marketing-, Produkt- und Account-Based-Marketing-Strategien.",
+    tags: ["Segmentmanagement", "Customer Lifecycle", "ABM", "Internationale Führung"],
   },
 ];
 

@@ -28,7 +28,7 @@ export function WhySection() {
             Führung, die liefert – ohne lange Anlaufzeit
           </h2>
           <p className="text-text-light text-base leading-[1.8] max-w-[620px]">
-            Was mich als Interim Manager auszeichnet: Ich denke strategisch, handle pragmatisch und schaffe Ergebnisse, die über mein Mandat hinaus Bestand haben.
+            Ich bin kein externer Berater, der Empfehlungen abgibt und wieder geht. Ich übernehme Verantwortung, führe Teams, treffe Entscheidungen – und verlasse das Unternehmen mit einer stärkeren Organisation, als ich es vorgefunden habe.
           </p>
         </Reveal>
 
