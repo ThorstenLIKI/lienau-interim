@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/og-image.png",
+        url: "/og-image-v2.png",
         width: 1200,
         height: 630,
         alt: `${siteConfig.name} – Interim Manager Marketing & Transformation`,
@@ -49,7 +49,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: `${siteConfig.name} | Interim Manager`,
     description: siteConfig.description,
-    images: ["/og-image.png"],
+    images: ["/og-image-v2.png"],
   },
   alternates: { canonical: "/" },
 };
