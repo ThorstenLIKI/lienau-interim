@@ -6,6 +6,7 @@ import { ScenariosSection } from "@/components/sections/scenarios-section";
 import { ExperienceSection } from "@/components/sections/experience-section";
 import { WhySection } from "@/components/sections/why-section";
 import { HowSection } from "@/components/sections/how-section";
+import { CaseStudiesSection } from "@/components/sections/case-studies-section";
 import { WebdesignSection } from "@/components/sections/webdesign-section";
 import { ContactSection } from "@/components/sections/contact-section";
 import { siteConfig } from "@/lib/site-config";
@@ -49,6 +50,7 @@ export default function Home() {
       <ExperienceSection />
       <WhySection />
       <HowSection />
+      <CaseStudiesSection />
       <WebdesignSection />
       <ContactSection />
     </>
